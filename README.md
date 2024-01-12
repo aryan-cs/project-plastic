@@ -19,6 +19,7 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 - Verified that mealworms are able to sustain themselves on a pure styrofoam diet
 - Styrofoam group did not turn to cannibalism, organic group often did
 - Mealworms shy away from heat (temperatures greater than 80°F) and operate best around 75°F
+- Classifier works best with a black background
 
 
 ## Visuals
