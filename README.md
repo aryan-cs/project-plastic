@@ -1,5 +1,5 @@
 
-# Wormy
+# Project Plastic
 
 Using mealworms (tenebrio molitor) & computer vision to identify types of plastic & decompose/upcycle them.
 
