@@ -9,7 +9,7 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 - [Aryan Gupta (@aryan-cs)](https://www.github.com/aryan-cs)
 
 
-## Acknowledgements
+## Resources
 
  - [Rob Jordan, Stanford News, 2019](https://news.stanford.edu/2019/12/19/mealworms-provide-plastic-solution/)
  - [Rob Jordan, Stanford News, 2015](https://news.stanford.edu/pr/2015/pr-worms-digest-plastics-092915.html)
