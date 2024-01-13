@@ -9,7 +9,7 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 - [Aryan Gupta (@aryan-cs)](https://www.github.com/aryan-cs)
 
 
-## Acknowledgements
+## Resources
 
  - [Rob Jordan, Stanford News, 2019](https://news.stanford.edu/2019/12/19/mealworms-provide-plastic-solution/)
  - [Rob Jordan, Stanford News, 2015](https://news.stanford.edu/pr/2015/pr-worms-digest-plastics-092915.html)
@@ -18,11 +18,12 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 ## Notes
 
 - Verified that mealworms are able to sustain themselves on a pure styrofoam diet
-- Styrofoam group did not turn to cannibalism, organic group often did
+- The Styrofoam group did not turn to cannibalism, the organic group often did
 - Mealworms shy away from heat (temperatures greater than 80°F) and operate best around 75°F
 - Mealworms were indifferent to lighting & color
-- Movement & activity greatly slows in heavily fungus-ridden environments 
+- Movement & activity greatly slow in heavily fungus-ridden environments 
 - Classifier worked best with plain, dark backgrounds
+- Noticed a "fishy" smell from the styrofoam group, but not from the organic group
 
 
 ## Visuals
