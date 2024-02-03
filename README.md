@@ -14,6 +14,8 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
  - [Rob Jordan, Stanford News, 2019](https://news.stanford.edu/2019/12/19/mealworms-provide-plastic-solution/)
  - [Rob Jordan, Stanford News, 2015](https://news.stanford.edu/pr/2015/pr-worms-digest-plastics-092915.html)
  - [Yang et al, 2015](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b02661)
+ - [Plastic Tracker](https://theoceancleanup.com/plastic-tracker/)
+ - [The World Counts](https://www.theworldcounts.com/challenges/planet-earth/oceans/plastic-in-the-ocean)
 
 ## Notes
 
@@ -24,6 +26,7 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 - Movement & activity greatly slow in heavily fungus-ridden environments 
 - Classifier worked best with plain, dark backgrounds
 - Noticed a "fishy" smell from the styrofoam group, but not from the organic group
+- The Organic group has a high mortality rate (>25%) compared to the Styrofoam group (0%)
 
 
 ## Visuals
