@@ -16,6 +16,8 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
  - [Yang et al, 2015](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b02661)
  - [Plastic Tracker](https://theoceancleanup.com/plastic-tracker/)
  - [The World Counts](https://www.theworldcounts.com/challenges/planet-earth/oceans/plastic-in-the-ocean)
+ - [Filament Extruder Product by ArtMe3D](https://artme-3d.shop/products/diy-kit-2)
+ - [Filament Extruder Demo](https://www.youtube.com/watch?v=BT04glGDjB4)
 
 ## Notes
 
