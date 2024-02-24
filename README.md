@@ -22,13 +22,14 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 ## Notes
 
 - Verified that mealworms are able to sustain themselves on a pure styrofoam diet
-- The Styrofoam group did not turn to cannibalism, the organic group often did
+- The styrofoam group did not turn to cannibalism, the organic group often did
 - Mealworms shy away from heat (temperatures greater than 80°F) and operate best around 75°F
 - Mealworms were indifferent to lighting & color
 - Movement & activity greatly slow in heavily fungus-ridden environments 
 - Classifier worked best with plain, dark backgrounds
 - Noticed a "fishy" smell from the styrofoam group, but not from the organic group
-- The Organic group has a high mortality rate (>25%) compared to the Styrofoam group (0%)
+- As of 02/03/2024, the organic group has a high mortality rate (>25%) compared to the styrofoam group (0%)
+- As of 02/23/2024, over 6 fully grown beetles have been found in the organic group, and 2 from the styrofoam group (almost all mealworms from the styrofoam group have refrained from metamorphosis)
 
 
 ## Visuals
