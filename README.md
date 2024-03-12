@@ -30,6 +30,7 @@ Using mealworms (tenebrio molitor) & computer vision to identify types of plasti
 - Noticed a "fishy" smell from the styrofoam group, but not from the organic group
 - As of 02/03/2024, the organic group has a high mortality rate (>25%) compared to the styrofoam group (0%)
 - As of 02/23/2024, over 6 fully grown beetles have been found in the organic group, and 2 from the styrofoam group (almost all mealworms from the styrofoam group have refrained from metamorphosis)
+- As of 03/12/2024, no darkling beetles have died from the styrofoam-only diet
 
 
 ## Visuals
